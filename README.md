@@ -58,13 +58,7 @@ The showcase repository includes a feature overview and interface previews.
 
 
 
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=0naXim0&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" height=165>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0naXim0&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height=165>
-  
-</p>
+View my live contribution history on the [GitHub contributions page](https://github.com/0naXim0?tab=overview).
 
 
 
@@ -97,5 +91,3 @@ Based in Pakistan.
 
 
 > Building useful things from ideas that refuse to stay ideas.
-
-
