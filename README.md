@@ -22,6 +22,22 @@ I’m building a public body of work one project at a time. This profile is wher
 
 
 
+## Featured project
+
+
+
+### [TJ Pro — Trading Journal & Analytics](https://github.com/0naXim0/tj-pro-trading-journal)
+
+
+
+A professional trading journal and analytics app for recording trades, reviewing performance, preserving chart context, and discovering patterns in a trading process. Explore the live product at [tj-pro-by-naxim.netlify.app](https://tj-pro-by-naxim.netlify.app).
+
+
+
+The showcase repository includes a feature overview and interface previews.
+
+
+
 ## How I work
 
 
