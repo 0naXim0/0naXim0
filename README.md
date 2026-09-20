@@ -83,6 +83,8 @@ I prefer simple solutions, deliberate iteration, and honest documentation. Every
 
 
 GitHub: [@0naXim0](https://github.com/0naXim0)
+Website: [naxim-labs.netlify.app]
+Email: [hello.nyxiom@gmail.com]
 
 
 
