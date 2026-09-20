@@ -50,45 +50,15 @@ A professional trading journal and analytics app for recording trades, reviewing
 
 
 
-The showcase repository includes a feature overview and interface previews.
-
-
-
-## GitHub activity
-
-
-
-View my live contribution history on the [GitHub contributions page](https://github.com/0naXim0?tab=overview).
-
-
-
-<p align="center">
-
-  <img src="https://streak-stats.demolab.com?user=0naXim0&hide_border=true&theme=transparent" alt="GitHub contribution streak">
-  
-</p>
-
-
-
-## How I work
-
-
-
-I prefer simple solutions, deliberate iteration, and honest documentation. Every project is an opportunity to understand a problem better, make something useful, and leave the implementation clearer than I found it.
-
-
-
 ## Find me here
 
 
 
-GitHub: [@0naXim0](https://github.com/0naXim0)
-Website: [naxim-labs.netlify.app]
-Email: [hello.nyxiom@gmail.com]
+**Website:** [naxim-labs.netlify.app](https://naxim-labs.netlify.app)  
 
+**Email:** [hello.nyxiom@gmail.com](mailto:hello.nyxiom@gmail.com)  
 
-
-Based in Pakistan.
+**GitHub:** [@0naXim0](https://github.com/0naXim0)
 
 
 
