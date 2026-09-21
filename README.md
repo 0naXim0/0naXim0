@@ -56,7 +56,19 @@ A professional trading journal and analytics app for recording trades, reviewing
 
 **Website:** [naxim-labs.netlify.app](https://naxim-labs.netlify.app)  
 
+
+
 **Email:** [hello.nyxiom@gmail.com](mailto:hello.nyxiom@gmail.com)  
+
+
+
+**WhatsApp:** [+92 3185591588](https://wa.me/923185591588)  
+
+
+
+**Telegram:** [@naXim_Labs](https://t.me/naXim_Labs)  
+
+
 
 **GitHub:** [@0naXim0](https://github.com/0naXim0)
 
